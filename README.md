@@ -12,7 +12,6 @@ The Iris Classification Web App is a simple and interactive application that:
    
 --
 
-
 **Algorithm Used**:  KNN
 
 **Library**: scikit-learn
@@ -21,10 +20,12 @@ The Iris Classification Web App is a simple and interactive application that:
 
 **Model Output**: saved_model.sav
 
-**Framework**: Flask
+**Framework**:  Flask
+
+
 --
 
-# How to Run the Project : 
+## How to Run the Project : 
 
 🔧 Step 1: Clone the Repository
 
