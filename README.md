@@ -1,4 +1,4 @@
-📌 Project Overview :
+# 📌 Project Overview :
 
 The Iris Classification Web App is a simple and interactive application that:
 
@@ -12,21 +12,30 @@ The Iris Classification Web App is a simple and interactive application that:
    
 
 Algorithm Used:  KNN
+
 Library: scikit-learn
+
 Training Dataset: Iris.csv (sourced from kaggle)
+
 Model Output: saved_model.sav
+
 Framework: Flask
 
 
 How to Run the Project : 
+
 🔧 Step 1: Clone the Repository
+
            git clone https://github.com/Jahnavi2711/Iris-classification.git
+           
            cd Iris-classification
            
 📦 Step 2: Install Dependencies
+
            pip install -r requirements.txt
            
 ▶️ Step 3: Run the Flask App
+
            python deploy.py
            
 🌍 Step 4: Open in Browser
