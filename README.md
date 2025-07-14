@@ -2,14 +2,16 @@
 
 The Iris Classification Web App is a simple and interactive application that:
 
-   1.Trains a machine learning model using the popular Iris dataset
+   1. Trains a machine learning model using the popular Iris dataset
    
-   2.Saves the trained model for later use
+   2. Saves the trained model for later use
    
-   3.Creates a Flask web app for user interaction
+   3. Creates a Flask web app for user interaction
    
-   4.Allows users to input flower features and get real-time predictions on species.
+   4. Allows users to input flower features and get real-time predictions on species.
    
+
+
 
 Algorithm Used:  KNN
 
