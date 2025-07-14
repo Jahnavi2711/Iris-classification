@@ -1,6 +1,6 @@
 ## 📌 Project Overview :
 
-The Iris Classification Web App is a simple and interactive application that:
+The **Iris Classification** Web App is a simple and interactive application that:
 
    1. Trains a machine learning model using the popular Iris dataset
    
@@ -10,7 +10,7 @@ The Iris Classification Web App is a simple and interactive application that:
    
    4. Allows users to input flower features and get real-time predictions on species.
    
---
+
 
 **Algorithm Used**:  KNN
 
@@ -23,7 +23,7 @@ The Iris Classification Web App is a simple and interactive application that:
 **Framework**:  Flask
 
 
---
+
 
 ## How to Run the Project : 
 
